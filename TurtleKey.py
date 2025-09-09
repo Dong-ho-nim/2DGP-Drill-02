@@ -6,7 +6,6 @@ screen.setup(width=600, height=600)
 t = turtle.Turtle()
 t.shape("turtle")
 t.color("green")
-t.speed(0)
 
 def move_up():
     t.setheading(90)
